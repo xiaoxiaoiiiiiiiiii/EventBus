@@ -1,0 +1,16 @@
+{
+  "name": "tsctest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "ts-node ./src/test/test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "@types/rx": "^4.1.2",
+    "rxjs": "^6.6.3"
+  }
+}

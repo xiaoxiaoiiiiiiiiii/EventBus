@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig",
+  "compilerOptions": {
+   
+  },
+  "references": [
+    {
+      "path": "../libs"
+    }
+  ]
+}
+
+
